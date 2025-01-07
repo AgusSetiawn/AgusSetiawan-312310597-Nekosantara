@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.Nekosantara" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="colorPrimaryDark">@color/black</item>
+    </style>
+
+    <style name="Theme.Nekosantara" parent="Base.Theme.Nekosantara" />
+</resources>
